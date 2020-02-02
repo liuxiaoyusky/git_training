@@ -1,5 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 HAHA New changes here.
+<<<<<<< HEAD
 Third change.
 This is a remote change. again.
 This is a local change.
+another change
